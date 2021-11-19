@@ -1,0 +1,72 @@
+header{
+    background-color: powderblue;
+    text-align: center;
+    margin: 0px 0px;
+    background-size: cover;
+    font-size: 20px;
+    margin-top: 0;
+    top: 0
+}
+h1{
+    margin: 0;
+    padding-top:30px;
+    padding-bottom: 30px;
+}
+header P{
+    margin: 0;
+    padding: 30px;
+}
+
+.koumoku{
+    display: flex;
+    justify-content: center;
+}
+
+
+.container{
+    display: flex;
+    justify-content: center;
+    font-family: 'Noto Sans JP', sans-serif;
+}
+
+
+aside{
+    margin: 20;
+}
+
+.first p{
+    font-size: 16;
+}
+
+
+h2{
+    background-color:darkturquoise;
+    color: aliceblue;
+    padding-top: 5;
+    padding-bottom: 5;
+    padding-left: 12;
+    font-size: 20;
+}
+
+.second img{
+    justify-content: center;
+    margin-left: 40;
+    width: 600;
+    height: 300;
+}
+
+.first img{
+    justify-content: center;
+    margin-left: 40;
+    width: 800;
+    height: 400;
+}
+
+.photo img{
+    justify-content: center;
+    margin-left: 40;
+    width: 600;
+    height: 300;
+}
+
+
